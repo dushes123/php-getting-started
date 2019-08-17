@@ -14,6 +14,7 @@ $ cd php-getting-started
 $ heroku create
 $ git push heroku master
 $ heroku open
+соси бибу
 ```
 
 or
